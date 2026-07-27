@@ -7,7 +7,10 @@ Projeto de Análise Exploratória de Dados (EDA) utilizando Python, Pandas e Goo
 ## 📌 Objetivo
 
 O objetivo deste projeto é realizar o tratamento, limpeza e análise dos dados de acidentes de trânsito, gerando visualizações que auxiliem na identificação de padrões e fatores associados aos acidentes.
+## 🔗 Links
 
+- 📁 Repositório: https://github.com/R2akolnik0v/analise-acidentes-transito-2026
+- 📊 Dashboard: https://datastudio.google.com/reporting/d61dcced-5356-47c1-9b84-901511dca9b1
 ---
 
 ## 🛠 Tecnologias Utilizadas
@@ -132,7 +135,11 @@ GitHub:
 https://github.com/R2akolnik0v
 
 ---
+## Dashboard
 
+Acesse o dashboard interativo:
+
+https://datastudio.google.com/reporting/d61dcced-5356-47c1-9b84-901511dca9b1                                                                
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins acadêmicos e de aprendizado.
