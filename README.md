@@ -121,7 +121,11 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de:
 - Visualização de dados
 - Construção de dashboards
 - Versionamento utilizando Git e GitHub
+## 📷 Dashboard
 
+### Visão Geral
+
+![Dashboard](imagens/dashboard.png)
 ---
 
 GitHub:
